@@ -3,4 +3,6 @@ def func_1():
 
 def func_2():
   print("Welcome")
-  
+
+def display():
+  print("Thank you")
