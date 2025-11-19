@@ -5,3 +5,5 @@ def func_2():
   """hi"""
   print("Welcome")
 
+def display():
+  print("Thank you")
