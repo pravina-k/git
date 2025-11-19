@@ -4,7 +4,7 @@ def func_1():
 def func_2():
   """hi"""
   """hello"""
-  print("Welcome")
+  print("main")
 
 def display():
   print("Thank you")
