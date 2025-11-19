@@ -3,7 +3,7 @@ def func_1():
 
 def func_2():
   """hi"""
-  """hello"""
+  """hello welcome"""
   print("Welcome")
 
 def display():
